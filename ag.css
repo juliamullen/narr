@@ -53,7 +53,8 @@ br {
 #a4 {
     left:2%;
     top:35%;
-    width:70%;
+    height:61%;
+    width:37%;
     display:block;
 }
 
@@ -66,9 +67,10 @@ br {
 }
 
 #a6 {
-    top:66%;
-    width:70%;
-    left:2%;
+    top:35%;
+    width:32%;
+    left:40%;
+    height:61%;
     display:block;
 
 }
